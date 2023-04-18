@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.in28minutes.rest.webservices</groupId>
-	<artifactId>05-restful-web-services-full-stack-bankend</artifactId>
+	<artifactId>test-deploy</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>restful-web-services</name>
+	<name>restful-web-services-2</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
